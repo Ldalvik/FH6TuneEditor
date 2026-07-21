@@ -17,14 +17,14 @@ Tip: Right-click a tune to edit the title/description, open the tune's folder (u
 
 
 # Making presets
-If you want to apply identical upgrades to multiple tunes for the same car, you can use presets. This is per car, so each preset has an extension based on car ordinal. This is so you don't install invalid upgrades accidentally. The installer will automatically replace the old app (keeping your presets/backups/original tunes).
+If you want to apply identical upgrades to multiple tunes for the same car, you can use presets. This is per car, so each preset has an extension based on car ordinal. This is so you don't install invalid upgrades accidentally. 
 
 After editing a tune, you will see a diff map of what you've changed. These are the changes that will apply to other tunes, so if you only change the Front Bumper, the preset will only change the Front Bumper when applied. You'll be shown this diff list when applying as well to confirm the changes are correct. 
 
 
 # Updating
 ### Tool updates
-The tool will check for updates automatically and let you know if one is available. If an update is available, a button to the download page will be given. 
+The tool will check for updates automatically and let you know if one is available. If an update is available, a button to the download page will be given. The installer will automatically replace the old app (keeping your presets/backups/original tunes).
 
 ### Forza updates
 The tool will also check the current game version (Gamepass only for now) and let know if there is an update. When Forza updates, the database typically does too, so check the #resources channel in the discord for version specific update files. You can drag these into the settings to automatically replace the old database files.
