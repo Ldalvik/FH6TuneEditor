@@ -17,7 +17,7 @@ Tip: Right-click a tune to edit the title/description, open the tune's folder (u
 
 
 # Making presets
-If you want to apply identical upgrades to multiple tunes for the same car, you can use presets. This is per car, so each preset has an extension based on car ordinal. This is so you don't install invalid upgrades accidentally. 
+If you want to apply identical upgrades to multiple tunes for the same car, you can use presets. This is per car, so each preset has an extension based on car ordinal. This is so you don't install invalid upgrades accidentally. The installer will automatically replace the old app (keeping your presets/backups/original tunes).
 
 After editing a tune, you will see a diff map of what you've changed. These are the changes that will apply to other tunes, so if you only change the Front Bumper, the preset will only change the Front Bumper when applied. You'll be shown this diff list when applying as well to confirm the changes are correct. 
 
