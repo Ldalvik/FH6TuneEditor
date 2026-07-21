@@ -3,7 +3,7 @@ If tune files aren't detected on launch, you're most likely playing the Gamepass
 
 If you have lots of tune files, you can filter, sort, or search through them. The filter options are for the search bar, you can filter text from the: title, creator, car name, description, or all 4. Sort By has options for: created oldest + newest, modified oldest + newest, and downloaded/shared first + last. 
 
-Tip: You can manually delete tunes and it will sync with your account when the game opens/closes. You will have the option to make a backup.
+_Tip: You can manually delete tunes and it will sync with your account when the game opens/closes. You will have the option to make a backup._
 
 
 # Modifying a tune
@@ -13,7 +13,7 @@ The star of the show is the rim editor. This menu has the most work put into it,
 
 Once you finish making your changes, click save. You will get the option to either: Overwrite the tune, or create a new copy with your changes. Open the tune manager and find your tune. Install and enjoy!
 
-Tip: Right-click a tune to edit the title/description, open the tune's folder (useful when sending me diagnostic reports), or restore as tune back to its original state.
+_Tip: Right-click a tune to edit the title/description, open the tune's folder (useful when sending me diagnostic reports), or restore as tune back to its original state._
 
 
 # Making presets
